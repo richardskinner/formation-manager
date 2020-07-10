@@ -1,3 +1,11 @@
+# Formation Manager (IN DEVELOPMENT)
+
+This is a tool for picking formations (football, soccer - whatever side of the pond you're on).
+
+More sport will be added at a later date.
+
+-----------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
